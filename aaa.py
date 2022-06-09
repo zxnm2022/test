@@ -3,6 +3,6 @@
 
 print('aaa')
 
-print(int(str('我')))
+print(int(str('hhhh')))
 
 
